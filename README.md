@@ -1,4 +1,4 @@
-# Ders1'in dosyaları
+# Ders1'in Dosyaları
 https://github.com/oguzhanyazman/python_sendkey_click
 
 pip install pywin32
@@ -10,10 +10,10 @@ https://youtu.be/p2in17vtGQ0
 
 __________________________
 
-# knightonline-makro-Ders2
+# Ders2'nin Dosyaları
 https://github.com/oguzhanyazman/knightonline-makro-Ders2
 
 Video:
-
+https://youtu.be/2BDf6f9FFQg
 
 __________________________
