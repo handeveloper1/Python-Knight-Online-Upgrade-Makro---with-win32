@@ -14,6 +14,6 @@ __________________________
 https://github.com/oguzhanyazman/knightonline-makro-Ders2
 
 Video:
-https://www.youtube.com/watch?v=c-jqV3B3eTw
+https://www.youtube.com/watch?v=0YPZ0JYMWKg
 
 __________________________
